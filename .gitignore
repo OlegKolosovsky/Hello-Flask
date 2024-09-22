@@ -1,0 +1,4 @@
+venv/
+README
+Dockerfile
+deployment.yaml
